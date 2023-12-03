@@ -1,0 +1,21 @@
+* {
+  font-family: arial;
+}
+
+.header
+{
+  color: rgb(97, 97, 97);
+  text-align: center;
+  background-color: rgb(221, 243, 251);
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+p,
+li {
+  color: rgb(91, 91, 91);
+}
+
+li {
+  margin-bottom: 12px;
+}
